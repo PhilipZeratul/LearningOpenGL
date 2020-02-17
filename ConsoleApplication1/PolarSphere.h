@@ -6,8 +6,4 @@ class PolarSphere :
 {
 public:
 	PolarSphere(float radius, int sectorCount, int stackCount);
-
-private:
-	//unsigned int sectorCount;
-	//unsigned int stackCount;
 };

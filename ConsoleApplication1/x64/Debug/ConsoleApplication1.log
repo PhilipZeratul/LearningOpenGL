@@ -1,11 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  IcoSphere.cpp
-E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\IcoSphere.cpp(5,39): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\IcoSphere.cpp(11,39): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\IcoSphere.cpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\IcoSphere.cpp(20,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\IcoSphere.cpp(21,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Main.cpp
-E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\Main.cpp(155,71): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-  Generating Code...
+  MainBezier.cpp
+E:\WORK\OpenGL\MyFirstOpenGL\ConsoleApplication1\MainBezier.cpp(79,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
   ConsoleApplication1.vcxproj -> E:\WORK\OpenGL\MyFirstOpenGL\x64\Debug\MyFirstOpenGL.exe
